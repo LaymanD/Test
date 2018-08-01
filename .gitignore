@@ -95,6 +95,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-.idea/
+.idea/*
 dayu.cfg
 .DS_Store
